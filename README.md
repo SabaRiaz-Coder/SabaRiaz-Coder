@@ -14,11 +14,11 @@ I'm a freelancer 👨🏻‍💻. I'm a self-taught, passionate web developer & 
   
 - 🌱 I’m currently learning Javascript, React.
   
-- ❤️ I love creating designs, and building fun experiments on Reac
+- ❤️ I love creating designs, and building fun experiments on React
   
 - 💬 Ask me about anything [here](https://github.com/SabaRiaz-Coder/Coder-demo/issues)
   
-#### Languages, Framework, Library & Tools:
+#### Languages, Framework, Library, & Tools:
 
  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
  <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
