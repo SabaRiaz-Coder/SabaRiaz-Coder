@@ -2,12 +2,13 @@
 
 <br>
 
+
 I'm a freelancer 👨🏻‍💻. I'm a self-taught, passionate web developer & designer from Pakistan pk. Open source and Communities is my strength and you'll find me exploring🔎everything around it!
 
 <img align="right" alt="coding" width="320" src="https://github.com/SabaRiaz-Coder/SabaRiaz-Coder/assets/149292449/407ac016-fd30-4699-95ba-1c05334218f1">
 <!--<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">-->
 
-#### About me:
+### About me:
 - 💼 FrontEnd Engineer
   
 - 🔭 I’m currently working on [Linkedin](https://www.linkedin.com/in/saba-r1214/)
@@ -42,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🐍 GitHub Contributions
+![](https://github.com/SabaRiaz-Coder/SabaRiaz-Coder/blob/main/Asset/github-contribution-grid-snake.svg)
